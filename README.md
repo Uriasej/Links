@@ -10,5 +10,5 @@
 * [All Bad Questions](https://allbad.cards/game/tougher-rail-3571)
 
 ## Yorg3.io
-* [1v1 | wI2DbK](https://yorg3.io)
+* [1v1 | wI2DbK](https://yorg3.io) ```wI2DbK```
 * [2v2 | none](https://yorg3.io)
