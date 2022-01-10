@@ -5,3 +5,6 @@
 
 ## Last Texas Hold 'Em
 * https://www.cardzmania.com/games/TexasHoldem/2463
+
+## Last Cards Against Humanity
+* []()
