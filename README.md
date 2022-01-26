@@ -12,3 +12,7 @@
 ## Yorg3.io
 * [1v1 | wI2DbK](https://yorg3.io) ```wI2DbK```
 * [2v2 | none](https://yorg3.io)
+
+## Infinite Mario Extension
+* [Infinite Mario](https://chrome.google.com/webstore/detail/infinite-mario/pojhkkcfgdnjbjpgohibhfdmoljbhedl)
+* [Ninja Mode](https://chrome.google.com/webstore/detail/infinite-mario-ninja-mode/cgedmffdlkchgklhodbmgljhjagfmoaf)
