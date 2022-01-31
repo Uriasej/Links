@@ -1,7 +1,7 @@
 # Links
 
 ## Last Black Jack
-* [Game Code: j26b14](black--jack.herokuapp.com)
+* [Game Code: PZ81JB](https://blackjack-multiplayer.herokuapp.com/PZ81JB)
 
 ## Last Texas Hold 'Em
 * https://www.cardzmania.com/games/TexasHoldem/2463
