@@ -18,7 +18,7 @@
 * [Ninja Mode](https://chrome.google.com/webstore/detail/infinite-mario-ninja-mode/cgedmffdlkchgklhodbmgljhjagfmoaf)
 
 ## Last Gartic Phone
-* [Gartic Phone](https://garticphone.com/en/?c=01b10d4fca)
+* [Gartic Phone](https://garticphone.com/en/?c=01f233fa85)
 
 ## My Games
 * [Ball](https://developer.cloud.unity3d.com/share/share.html?shareId=WyVksLwQRD)
